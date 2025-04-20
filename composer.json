@@ -1,5 +1,5 @@
 {
-    "name": "usman/test_package",
+    "name": "usmanzahid/test_package",
     "type": "library",
     "autoload": {
         "psr-4": {
