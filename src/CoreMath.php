@@ -1,6 +1,6 @@
 <?php
 
-namespace Usman\TestPackage;
+namespace UsmanZahid\TestPackage;
 
 class CoreMath {
     public function __construct() {

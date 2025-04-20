@@ -1,6 +1,6 @@
 <?php
 
-namespace Usman\TestPackage;
+namespace UsmanZahid\TestPackage;
 
 class AdvancedMath {
     protected CoreMath $coreMath;
