@@ -1,0 +1,16 @@
+{
+    "name": "usman/test_package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Usman\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usman Zahid",
+            "email": "developerusman@yahoo.com"
+        }
+    ],
+    "require": {}
+}
